@@ -1,5 +1,5 @@
 # Remove-Background-Ai
-حذف تصیر پست زمینه با هوش مصنوعی 
+حذف تصویر پست زمینه با هوش مصنوعی 
 
 وارد لینک زیر بشید : https://aminiyt1.github.io/removebacai 
 
