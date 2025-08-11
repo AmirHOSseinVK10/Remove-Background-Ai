@@ -1,6 +1,6 @@
 # Remove-Background-Ai
 حذف تصویر پست زمینه با هوش مصنوعی 
 
-وارد لینک زیر بشید : https://aminiyt1.github.io/removebacai 
+وارد لینک زیر بشید : https://amirhosseinvk10.github.io/Remove-Background-Ai/
 
 سپس عکس خودتون رو آپلود کنید تا هوش مصنوعی به بهترین شکل ممکن پس زمینه تصاویر شما رو حذف کند و تصویر نهایی رو برای شما ارسال کند.
